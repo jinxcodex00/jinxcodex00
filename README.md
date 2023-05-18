@@ -26,7 +26,7 @@
 
 :seedling: I’m practicing Software Engineering on the side and contributing to frontend for experience in building web applications and mobile apps.
 
-:seedling: I'm currently learning React Native in the NuCamp coding bootcamp!
+:seedling: I'm currently learning React Native!
 
 :zap: In my free time, I create cute 2d games in Unity Game Engine.
 
